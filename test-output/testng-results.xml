@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="54989" started-at="2019-01-22T19:23:10Z" finished-at="2019-01-22T19:24:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="54989" started-at="2019-01-22T19:23:10Z" finished-at="2019-01-22T19:24:05Z">
+      <class name="Test.FirstTest">
+        <test-method status="PASS" signature="name()[pri:0, instance:Test.FirstTest@192c3f1e]" name="name" is-config="true" duration-ms="3035" started-at="2019-01-22T19:23:07Z" finished-at="2019-01-22T19:23:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- name -->
+        <test-method status="PASS" signature="runtest(java.lang.String, java.lang.String)[pri:0, instance:Test.FirstTest@192c3f1e]" name="runtest" duration-ms="35031" started-at="2019-01-22T19:23:10Z" data-provider="login" finished-at="2019-01-22T19:23:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runtest -->
+        <test-method status="PASS" signature="runtest(java.lang.String, java.lang.String)[pri:0, instance:Test.FirstTest@192c3f1e]" name="runtest" duration-ms="3558" started-at="2019-01-22T19:23:45Z" data-provider="login" finished-at="2019-01-22T19:23:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rihad11]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[MuniaAkter!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runtest -->
+        <test-method status="PASS" signature="runtest(java.lang.String, java.lang.String)[pri:0, instance:Test.FirstTest@192c3f1e]" name="runtest" duration-ms="3922" started-at="2019-01-22T19:23:49Z" data-provider="login" finished-at="2019-01-22T19:23:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rihad12]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[MuniaAkter!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runtest -->
+        <test-method status="PASS" signature="runtest(java.lang.String, java.lang.String)[pri:0, instance:Test.FirstTest@192c3f1e]" name="runtest" duration-ms="3658" started-at="2019-01-22T19:23:53Z" data-provider="login" finished-at="2019-01-22T19:23:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rihad13]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[MuniaAkter!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runtest -->
+        <test-method status="PASS" signature="runtest(java.lang.String, java.lang.String)[pri:0, instance:Test.FirstTest@192c3f1e]" name="runtest" duration-ms="3387" started-at="2019-01-22T19:23:56Z" data-provider="login" finished-at="2019-01-22T19:24:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rihad14]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[MuniaAkter!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runtest -->
+        <test-method status="PASS" signature="runtest(java.lang.String, java.lang.String)[pri:0, instance:Test.FirstTest@192c3f1e]" name="runtest" duration-ms="5369" started-at="2019-01-22T19:24:00Z" data-provider="login" finished-at="2019-01-22T19:24:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rihad15]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[MuniaAkter!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runtest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Test.FirstTest@192c3f1e]" name="teardown" is-config="true" duration-ms="4611" started-at="2019-01-22T19:24:05Z" finished-at="2019-01-22T19:24:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Test.FirstTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
